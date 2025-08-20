@@ -36,8 +36,8 @@ To run this project on your local machine, you'll need Python 3 and the Pygame l
 First, clone this repository to your local machine.
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/Sacihn00028/Chess
+cd Chess
 ```
 
 ### 2. Install Pygame
@@ -54,7 +54,7 @@ Make sure you have the `assets/images` directory in the same folder as the Pytho
 
 ```
 .
-├── your_chess_game.py
+├── chess.py
 └── assets/
     └── images/
         ├── black bishop.png
@@ -69,7 +69,7 @@ Make sure you have the `assets/images` directory in the same folder as the Pytho
 
 1.  **Run the script** from your terminal:
     ```bash
-    python your_chess_game.py
+    python chess.py
     ```
 2.  The game window will appear, displaying the starting chess position.
 3.  **White moves first.** Click on a white piece to select it.
