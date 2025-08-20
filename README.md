@@ -2,8 +2,7 @@
 
 A classic two-player chess game built from scratch using Python and the Pygame library. This project provides a fully functional chess board with all standard rules implemented, offering a clean and intuitive graphical interface for players.
 
-!
-*(Add a screenshot of your game here!)*
+<img width="932" height="786" alt="Screenshot 2025-08-20 150815" src="https://github.com/user-attachments/assets/3127198e-b7af-46e9-8636-db5efb06b621" />
 
 ---
 
